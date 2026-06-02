@@ -10,6 +10,7 @@ OctoAcme follows a structured, iterative project management methodology based on
 - **Planning**: Creating timelines, resource plans, and milestones
 - **Execution & Tracking**: Daily management, stand-ups, and tracking progress
 - **Risk & Communication**: Identifying risks, escalation paths, and communication plans
+- **Prototyping**: Create prototype of application with UI and partialy working functionality
 - **Release & Deployment**: Procedures for releases and go-lives
 - **Retrospective & Improvement**: Post-release reviews and continuous improvement
 
@@ -23,6 +24,7 @@ OctoAcme follows a structured, iterative project management methodology based on
 - [OctoAcme Release & Deployment Guide](./octoacme-release-and-deployment.md) — Standardize how OctoAcme releases features to production
 - [OctoAcme Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) — Capture learnings and convert them into actionable improvements
 - [OctoAcme Personas](./octoacme-roles-and-personas.md) — Typical roles and responsibilities used in OctoAcme projects
+- [Copilot](./copilot.md) — Typical roles and responsibilities used in OctoAcme projects
 
 ## Getting Started
 
